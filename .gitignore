@@ -1,10 +1,11 @@
 *.sdf
 # EDK-II/.vs/EDK-II/v14/.suo
-x64
+
 .vs/
 *.opensdf
 *.suo
 *.map
+/x64/
 debugger/stderr.txt
 debugger/stdout.txt
 *.opendb
